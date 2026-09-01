@@ -26,3 +26,4 @@ A practical guide for installing Docker Desktop on Windows using WSL2, including
 ```bash
 docker run hello-world
 ```
+Hello from Docker!
